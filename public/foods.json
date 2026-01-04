@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": "R001",
+      "recipe_name": "Grilled Chicken Basil",
+      "recipe_image": "https://i.ibb.co/PvG9jwDq/food1.png",
+      "short_description": "Juicy grilled chicken infused with fresh basil flavor.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "2 tbsp olive oil",
+        "1 tsp black pepper"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": "R002",
+      "recipe_name": "Creamy Mushroom Pasta",
+      "recipe_image": "https://i.ibb.co/PvG9jwDq/food1.png",
+      "short_description": "Creamy pasta cooked with fresh mushrooms and herbs.",
+      "ingredients": [
+        "400 g mushroom",
+        "250 g pasta",
+        "200 ml cream",
+        "2 cloves garlic",
+        "50 g parmesan cheese"
+      ],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_id": "R003",
+      "recipe_name": "Vegetable Fried Rice",
+      "recipe_image": "https://i.ibb.co/PvG9jwDq/food1.png",
+      "short_description": "Classic fried rice loaded with fresh vegetables.",
+      "ingredients": [
+        "300 g cooked rice",
+        "100 g carrot",
+        "100 g green peas",
+        "2 eggs",
+        "3 tbsp soy sauce"
+      ],
+      "preparing_time": 20,
+      "calories": 380
+    },
+    {
+      "recipe_id": "R004",
+      "recipe_name": "Beef Stir Fry",
+      "recipe_image": "https://i.ibb.co/PvG9jwDq/food1.png",
+      "short_description": "Tender beef stir-fried with vegetables in savory sauce.",
+      "ingredients": [
+        "500 g beef",
+        "1 bell pepper",
+        "1 onion",
+        "3 tbsp oyster sauce",
+        "1 tbsp ginger paste"
+      ],
+      "preparing_time": 35,
+      "calories": 520
+    },
+    {
+      "recipe_id": "R005",
+      "recipe_name": "Chicken Vegetable Soup",
+      "recipe_image": "https://i.ibb.co/PvG9jwDq/food1.pngg",
+      "short_description": "Warm and healthy chicken soup with vegetables.",
+      "ingredients": [
+        "400 g chicken",
+        "1 carrot",
+        "1 potato",
+        "1 liter chicken stock",
+        "Salt to taste"
+      ],
+      "preparing_time": 40,
+      "calories": 290
+    },
+    {
+      "recipe_id": "R006",
+      "recipe_name": "Pancakes with Honey",
+      "recipe_image": "https://i.ibb.co/PvG9jwDq/food1.png",
+      "short_description": "Soft and fluffy pancakes served with honey.",
+      "ingredients": [
+        "200 g flour",
+        "2 eggs",
+        "250 ml milk",
+        "2 tbsp honey",
+        "1 tsp baking powder"
+      ],
+      "preparing_time": 15,
+      "calories": 360
+    }
+  ]
+  
